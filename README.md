@@ -4,9 +4,13 @@
 
 ## About me:
 
-I am PhD in theoretical physics, currently a postdoc in CMM- U Chile with a Fondecyt Grant xxxx. I work in General Relativity in black holes description, and in Mathematical physics in Vlasov-Poisson system.
-My scientific interest principally are motivated for description of matter around Black Holes, in particular a description of Kinetic Theory of gases. 
-In parallel I am ongoing data scientist 2023. 
+
+I am Ph.D. in theoretical physics, currently CMM- U Chile postdoc with a Fondecyt Grant xxxx.\\
+
+I work in General Relativity in black holes description, and in Mathematical Physics in Vlasov-Poisson system. \\
+
+My scientific interest is principally motivated by a description of matter around Black Holes, in particular a description of the Kinetic Theory of gases. In parallel, I am an ongoing data scientist in 2023.
+
 
 ## Sección 2
 

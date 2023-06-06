@@ -1,10 +1,12 @@
 # prioseco.github.io
 
-# My personal webpage
+# Paola Rioseco
 
-## Sección 1
+## About me:
 
-Texto de la sección 1.
+I am PhD in theoretical physics, currently a postdoc in CMM- U Chile with a Fondecyt Grant xxxx. I work in General Relativity in black holes description, and in Mathematical physics in Vlasov-Poisson system.
+My scientific interest principally are motivated for description of matter around Black Holes, in particular a description of Kinetic Theory of gases. 
+In parallel I am ongoing data scientist 2023. 
 
 ## Sección 2
 

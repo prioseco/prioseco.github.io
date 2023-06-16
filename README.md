@@ -13,10 +13,10 @@ My scientific interest is principally motivated by a "realistic" description of 
 At present, I am working as a Data Analyst/Scientist, utilizing programming languages such as Python and R.
 
 ## Other interests:
-- Bird Watching: Merlin App, eBird App.
+- Bird Watching: Merlin App, eBird App, BirdLife Austria member.
 - Understanding the Misunderstood Pigeon: Rescue, Help, Donate, Educate.
 - Sports: Bike, Functional, Hiking, Yoga.
-- Outreach to women in STEM.
+- Outreach to women in STEM. 
 
 ## Links
 

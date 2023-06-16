@@ -1,4 +1,4 @@
-<!-- # prioseco.github.io -->
+<!-- prioseco.github.io -->
 
 # Paola Rioseco
 

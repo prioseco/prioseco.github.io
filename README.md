@@ -8,9 +8,9 @@ I am Ph.D. in theoretical physics, currently CMM - U Chile postdoc (Center of Ma
 
 I specialize in General Relativity, focusing on the description of black holes, and Mathematical Physics, particularly in the Vlasov-Poisson system. My work lies at the intersection of Mathematics and Astrophysics.
 
-My scientific interest is principally motivated by a "realistic" description of matter around Black Holes, in particular I used a description known as Kinetic Theory of gases. By applying this approach to the matter around black holes, we seek to better understand how it behaves and interacts with extreme gravity in those regions. 
+My scientific interest is principally motivated by a "realistic" description of matter around Black Holes, in particular, I used a description known as Kinetic Theory of gases. By applying this approach to the matter around black holes, we seek to understand better how it behaves and interacts with extreme gravity in those regions. 
 
-At present, I am working as a Data Analyst/Scientist, utilizing programming languages such as Python and R.
+I am currently working as a Data Analyst/Scientist, utilizing programming languages such as Python and R.
 
 ## Other interests:
 - Bird Watching: Merlin App, eBird App, BirdLife Austria member.
@@ -28,4 +28,4 @@ At present, I am working as a Data Analyst/Scientist, utilizing programming lang
 
 ## Image
 
-![Texto alternativo de la imagen](ruta/de/la/imagen.jpg)
+![Texto alternativo de la imagen](PAO_8504.JPG.jpg)

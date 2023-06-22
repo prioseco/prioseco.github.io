@@ -28,4 +28,4 @@ At present, I am working as a Data Analyst/Scientist, utilizing programming lang
 
 ## Image
 
-![Texto alternativo de la imagen](ruta/de/la/imagen.jpg)
+[Me](prioseco-patch-1/PAO_8574.jpg)

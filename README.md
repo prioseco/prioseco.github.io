@@ -16,7 +16,7 @@ At present, I am working as a Data Analyst/Scientist, utilizing programming lang
 - Bird Watching: Merlin App, eBird App, BirdLife Austria member.
 - Understanding the Misunderstood Pigeon: Rescue, Help, Donate, Educate.
 - Sports: Bike, Functional, Hiking, Yoga.
-- Outreach to women in STEM. Promoting Financial Independence Investing. 
+- Outreach to women in STEM. Promoting Financial Independence. 
 
 ## Links
 
